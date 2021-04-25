@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EcoArts</string>
+    <string name="castellano">Castellano</string>
+    <string name="catala">Català</string>
+    <string name="english">English</string>
+    <string name="jugar">Play</string>
+    <string name="ajustes">Settings</string>
+    <string name="salir">Exit</string>
+    <string name="confirmar_salir">Are you sure you want to exit?</string>
+    <string name="logo_ecoarts">Logo EcoArts</string>
+    <string name="cambiar_idioma">Change language</string>
+    <string name="contactar">Contact</string>
+    <string name="creditos">Credits</string>
+    <string name="version">Version</string>
+    <string name="musica">Music:</string>
+    <string name="efectos">Effects:</string>
+    <string name="nivel">Level:</string>
+    <string name="facil">Easy</string>
+    <string name="dificil">Hard</string>
+    <string name="selecPersonaje">Select character</string>
+    <string name="nombreJugador">Player name</string>
+    <string name="empezar">Start</string>
+    <string name="creditos_cuerpo">
+        Programmers:\n\n Xiaolin Jin Lin\n
+        Devin Schlippe\n
+        Oriol Miralles\n\n\n
+        With the collaboration of the group of professors from Centre d\'Estudis Politècnics from Barcelona.\n\n
+        First version achieved at december 2020 in the class of DAM2A group 1.
+    </string>
+    <string name="infoPersonaje">Character information</string>
+    <string name="Abandonar">Abandon game</string>
+    <string name="descripcion_activista">Description activist</string>
+    <string name="nombre_activista">Name activist</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="derrota">Game over</string>
+    <string name="derrota2">Don\'t give up, next time you will get it!</string>
+    <string name="volver_menu">Back to menu</string>
+    <string name="victoria">Victory!</string>
+    <string name="victoria2">Very good, keep it up!</string>
+    <string name="volver_mapa">Back to map</string>
+    <string name="abandonar_partida">Are you sure you want to leave the game?</string>
+    <string name="batalla">Battle</string>
+    <string name="debes_escribir_nombre">You must write a name</string>
+    <string name="victoria3">YOU SAVED THE EARTH!\n\n
+        Thanks to your actions and sageness the world keeps being a nice place to live for all species.
+    </string>
+    <string name="comenzar_batalla">Start battle</string>
+    <string name="introduccuion_tutorial">
+        Welcome to EcoArts\n
+        where we will test your knowledge about the environment.\n\n
+        Are you ready to enter into a world full of monsters that want to end with our planet?\n\n
+        If you are brave enough your answer will be YES!\n
+        Courage, the world needs you!
+    </string>
+    <string name="tutorial_1">
+        First you have to write your name and select a character you want to play with.\n\n
+        You can check the information of each character by pressing the blue icon and if you want to select it, just press the green icon!\n\n
+        Finally choose a dificulty:\n\n
+        - Easy => Your hearts will recover after each battle.\n
+        - Difficult => Your hearts only will recover after the third battle.!\n
+    </string>
+    <string name="tutorial_2">
+        In total there are 6 worlds and in each one there\'s a different monster.\n\n
+        If you run out of hearts you won\'t be able to continue.
+    </string>
+    <string name="tutorial_3">
+        You will have a maximum of 30 seconds to answer each question.\n\n
+        If you choose a wrong answer you will loose a heart and if you run out of time,\n
+        you will lose a heart as well, so be careful . . . ;)\n\n
+        If you run out of hearts you lose.\n\n
+        Read the questions carefully and answer wisely.\n\n
+    </string>
+    <string name="enhorabuena">Congratulations</string>
+    <string name="introduccion">
+        The earth is in danger!\n
+        The reason is that there have appeared some monsters made by the human species that threaten with the destruction of the planet that we know.\n\n
+        These monsters have been inadvertently created by all men and women from our daily acts.\n
+        For a long time, we were not aware of it but every day we have made these monsters grow and now they are almost out of control and can wipe out the planet in a matter of a few years.\n\n
+        They are known as Flood, Pollution, Waste, Plastic, Deforestation and Gross Energy and are the most dangerous monsters that have inhabited in our planet.\n
+        The main problem is that the whole humanity isn’t united in fighting these monsters.\n\n
+        Many politicians and big businessmen make a lot of money by feeding these dangerous
+        beasts while trying to manipulate our minds to prevent us from doing anything about them. But there is not much time left. You and only you, with your wisdom and your acts
+        can destroy them forever and thus save the planet so that it continues to be habitable for all people and animals that are still alive.
+    </string>
+    <string name="ver_introduccion">Show introduction</string>
+    <string name="volver_ajustes">Back to settings</string>
+    <string name="EncabezadoIntroduccion">Introduction</string>
+    <string name="recuperar_vidas">
+        I see these miserables monsters have taken some of your lives...\n\n
+        Don\'t worry, you have just regained the lives you lost!\n\n
+        Cheers, you\'re close to reaching the finish line!
+    </string>
+    <string name="ir_al_menu">Go to menú</string>
+</resources>
